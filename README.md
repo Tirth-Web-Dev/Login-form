@@ -8,7 +8,7 @@ Smooth transitions, floating labels, and subtle gradients make logging in feel l
 
 Check it out live here: [Login Form Live](https://tirth-web-dev.github.io/Login-form/)
 
-![Login Form Preview](./login-form.png) <!-- Add your screenshot here -->
+![Login Form Preview](./preview.png) <!-- Add your screenshot here -->
 
 
 ## ✨ Features
