@@ -6,7 +6,7 @@ Smooth transitions, floating labels, and subtle gradients make logging in feel l
 
 ## 🌐 Live Demo
 
-Check it out live here: [Login Form Live](https://tirth-web-dev.github.io/Login-form/)
+Check it out live here: [Live Demo](https://tirth-web-dev.github.io/Login-form/)
 
 ## ✨ Features
 
